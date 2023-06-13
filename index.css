@@ -1,0 +1,160 @@
+/* Reset some default styles */
+body,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* Basic styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  justify-content: center;
+  align-content: center;
+}
+
+header {
+  background-color: #002a54ef;
+  color: #fff;
+  padding: 25px 20px 25px 50px;
+  text-align: center;
+  position: relative;
+}
+
+header h1 {
+  text-shadow: 5px 3px 5px rgb(0, 0, 0);
+}
+
+#hero {
+  margin: 80px 0px;
+}
+
+#e-waste {
+  width: 70px;
+  height: 70px;
+  border-radius: 10px;
+  position: absolute;
+  top: 18%;
+  left: 10%;
+}
+
+nav {
+  background-color: rgba(40, 39, 39, 0.509);
+  padding: 10px;
+  position: sticky;
+  top: 0%;
+  z-index: 1;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  color: #fff;
+  display: inline-block;
+  padding: 10px;
+  text-decoration: none;
+}
+
+section {
+  padding: 40px;
+  text-align: center;
+}
+
+.service {
+  margin-bottom: 40px;
+}
+.service img {
+  width: 200px;
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+footer {
+  background-color: #032548ae;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer-content p {
+  margin-bottom: 10px;
+}
+
+.social-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.social-links li {
+  display: inline-block;
+  margin: 0 5px;
+}
+
+.social-links a {
+  color: #fff;
+  font-size: 20px;
+}
+
+.social-links a:hover {
+  color: #ccc;
+}
+.nav-class a:hover {
+  text-decoration: underline;
+  color: white;
+  font-weight: bold;
+  background-color: #02356cc1;
+  padding: 8px 12px;
+  border-radius: 10px;
+}
+.nav-class {
+  margin-left: 20px;
+}
+.e-aware {
+  background-color: rgba(84, 84, 84, 0.053);
+  text-align: center;
+  padding: 30px 35px;
+  margin: 140px 100px 80px 100px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px black;
+}
+.headings {
+  text-shadow: 1px 1px 3px black;
+  color: #0b6ed1ef;
+}
+#welcome-text {
+  width: 55%;
+  overflow: hidden;
+  display: inline-block;
+  border-right: 1px solid #000;
+  white-space: nowrap;
+  margin: 0 auto;
+  letter-spacing: 4px;
+  animation: typing 4.5s steps(40, end);
+}
+@keyframes typing {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 55%;
+  }
+}
