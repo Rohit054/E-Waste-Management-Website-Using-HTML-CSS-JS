@@ -15,10 +15,18 @@ Live Demo : https://y9mnpn.csb.app/index.html
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username/project-name/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/your-username/project-name?style=flat-square"></a>
-  <a href="https://github.com/your-username/project-name/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/your-username/project-name?style=flat-square"></a>
-  <a href="https://github.com/your-username/project-name/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/your-username/project-name?style=flat-square"></a>
-  <a href="https://github.com/your-username/project-name/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/your-username/project-name?style=flat-square"></a>
+  <a href="https://github.com/your-username/project-name/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/your-username/project-name?style=for-the-badge&logo=github&color=yellow">
+  </a>
+  <a href="https://github.com/your-username/project-name/network">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/your-username/project-name?style=for-the-badge&logo=github&color=blue">
+  </a>
+  <a href="https://github.com/your-username/project-name/issues">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/your-username/project-name?style=for-the-badge&logo=github&color=red">
+  </a>
+  <a href="https://github.com/your-username/project-name/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/github/license/your-username/project-name?style=for-the-badge&logo=creative%20commons&color=green">
+  </a>
 </p>
 
 ## Overview
@@ -50,4 +58,3 @@ Mention the license under which your project is distributed. Provide a link to t
 Provide contact information or links to your social media profiles, so that others can reach out to you with any questions or inquiries.
 
 </details>
-
