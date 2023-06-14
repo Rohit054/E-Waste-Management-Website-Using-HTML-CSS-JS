@@ -37,7 +37,7 @@
 
 ## ⭐️ Screenshots
 
-![Project Screenshot]()
+![Project Screenshot](./Images/E-waste Management Webpaage Screenshot.png)
 
 Provide a descriptive caption or additional information about the screenshot if necessary.
 
