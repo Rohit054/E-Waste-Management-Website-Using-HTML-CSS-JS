@@ -35,11 +35,9 @@
 - By using this platform, users contribute to reducing e-waste and protecting the environment.
 
 
-## ⭐️ Screenshots
+## ⭐️ Screenshot
 
-![Project Screenshot](./Images/E-waste Management Webpaage Screenshot.png)
-
-Provide a descriptive caption or additional information about the screenshot if necessary.
+<img width="960" alt="E-waste Management Webpaage Screenshot" src="https://github.com/Rohit054/E-Waste-Management-Website-Using-HTML-CSS-JS/assets/130490937/c63ebf0c-a087-427e-984b-daad7389e665">
 
 ## ⭐️ Live Demo
 
