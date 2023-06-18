@@ -43,7 +43,7 @@
 
 Check out the live demo of the project:
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Here-success?style=for-the-badge&logo=firefox-browser)](https://y9mnpn.csb.app/index.html)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Here-success?style=for-the-badge&logo=firefox-browser)](https://rohit054.github.io/E-Waste-Management-Website-Using-HTML-CSS-JS/)
 
 Click on the icon above to access the live demo and experience the project in action.
 
