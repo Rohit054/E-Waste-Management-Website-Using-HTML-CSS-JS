@@ -55,6 +55,7 @@ contactForm.addEventListener("submit", (event) => {
   // Reset the form fields
   contactForm.reset();
 });
+
 function popup() {
   document.getElementById("popup").style.cssText = "visibility:visible";
   document.getElementById("contact-form").style.cssText = "visibility:hidden";
